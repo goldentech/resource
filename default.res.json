@@ -44,11 +44,12 @@
         {"name": "sim4","type": "image","url": "assets/xiaoxiang.jpg"},
         {"name": "sim5","type": "image","url": "assets/gongzhengfeng.jpg"},
         {"name": "sim6","type": "image","url": "assets/yiguan.jpg"}
+        { "name":"pal3_1","type":"sound","url":"assets/pal3_1.mp3" },
 	],
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "bgImage,bgImage_YourInput,egretIcon,button1,sword,monster,bghouse1,bghouse2,button1,sword,sword2,bgGirl,fightBG,sim1,sim2,sim3,sim4,sim5,sim6"
+			"keys": "bgImage,bgImage_YourInput,egretIcon,button1,sword,monster,bghouse1,bghouse2,button1,sword,sword2,bgGirl,fightBG,sim1,sim2,sim3,sim4,sim5,sim6,pal3_1”
 		}
 	]
 }
