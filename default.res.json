@@ -5,6 +5,11 @@
 			"type": "image",
 			"url": "assets/bg.png"
 		},
+                {
+			"name": "bgImage_YourInput",
+			"type": "image",
+			"url": "assets/1.jpeg"
+		},
         {
 			"name": "sword",
 			"type": "image",
@@ -43,7 +48,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "bgImage,egretIcon,button1,sword,monster,bghouse1,bghouse2,button1,sword,sword2,bgGirl,fightBG,sim1,sim2,sim3,sim4,sim5,sim6"
+			"keys": "bgImage,bgImage_YourInput,egretIcon,button1,sword,monster,bghouse1,bghouse2,button1,sword,sword2,bgGirl,fightBG,sim1,sim2,sim3,sim4,sim5,sim6"
 		}
 	]
 }

@@ -1,7 +1,8 @@
 {
 	"resources": [
 		
-		{"name": "bgImage","type": "image","url": "assets/bg.png"},
+        {"name": "bgImage","type": "image","url": "assets/bg.png"},
+        {"name": "bgImage_YourInput","type": "image","url": "assets/1.jpeg"},
         {"name": "bgGirl","type": "image","url": "assets/bgGirl.png"},
         {"name": "bghouse1","type": "image","url": "assets/house1.png"},
         {"name": "bghouse2","type": "image","url": "assets/house2.png"},
@@ -14,7 +15,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "bgImage,bgGirl,bghouse1,bghouse2,button1,sword,sword2"
+			"keys": "bgImage,bgImage_YourInput,bgGirl,bghouse1,bghouse2,button1,sword,sword2"
 		}
 	]
 }
